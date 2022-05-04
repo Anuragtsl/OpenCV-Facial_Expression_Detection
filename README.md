@@ -8,7 +8,7 @@ Emojis or avatars are ways to indicate nonverbal cues. These cues have become an
 
 It also lead to increasing data science research dedicated to emoji-driven storytelling.
 
-***Follow [code]() for more!!***
+***Follow [code](https://github.com/Anuragtsl/OpenCV-Emojify/blob/main/train.py) for more!!***
 
 # About the Dataset
 
@@ -30,7 +30,7 @@ The images are centered and occupy an equal amount of space. This dataset consis
 
 6:natural
 
-**Download the [dataset]() from here!!**
+**Download the [dataset](https://github.com/Anuragtsl/OpenCV-Emojify/blob/main/Dataset.txt) from here!!**
 
 # Preview
 

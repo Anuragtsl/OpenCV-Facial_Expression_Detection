@@ -34,9 +34,9 @@ The images are centered and occupy an equal amount of space. This dataset consis
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/OpenCV-Emojify/blob/main/images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/OpenCV-Emojify/blob/main/images/2.png)
 
 
 #Njoy!!

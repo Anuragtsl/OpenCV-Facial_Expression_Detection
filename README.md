@@ -1,6 +1,6 @@
-# OpenCV-Emojify
+# OpenCV-Facial_Expression_Detection
 
-In this deep learning project, I've classified human facial expressions to filter and map corresponding emojis or avatars.
+In this deep learning project, I've classified human facial expressions.
 
 With advancements in [Computer Vision](https://www.ibm.com/in-en/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,recommendations%20based%20on%20that%20information.) and [Deep Learning](https://machinelearningmastery.com/what-is-deep-learning/), it is now possible to detect human emotions from images.
 
